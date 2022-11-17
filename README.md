@@ -13,3 +13,5 @@ The backend server connects to a MongoDB database to manage each post request se
 3) It has the ability to like each posts
 4) Each post created is displayed on the applications screen
 5) The user has the ability to delete each post created 
+
+Credit: JSMastery
